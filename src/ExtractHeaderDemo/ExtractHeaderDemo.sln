@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractHeaderDemo.Api", "ExtractHeaderDemo.Api\ExtractHeaderDemo.Api.csproj", "{B08A7179-A6AE-47B7-BC05-B120AA69D5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08A7179-A6AE-47B7-BC05-B120AA69D5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08A7179-A6AE-47B7-BC05-B120AA69D5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08A7179-A6AE-47B7-BC05-B120AA69D5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08A7179-A6AE-47B7-BC05-B120AA69D5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
